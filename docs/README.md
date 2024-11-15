@@ -1,28 +1,9 @@
----
-icon: file-lines
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
 
 # 万物之时云盘文档
 
 ## [万物之时云盘](https://pan.126330.xyz/)
-
-
+### 简介
+本云盘由博主[万物之时](wwzs.fun)搭建，使用[Cloudreve](https://cloudreve.org/)网盘系统，搭建在华为云服务器上
 
 ### 用户群
 
@@ -54,3 +35,4 @@ layout:
 * **离线下载服务**：因个人经济原因，暂不提供离线下载服务。
 
 感谢您的理解与支持！
+> An awesome project.
